@@ -1,5 +1,5 @@
 {
-  "name": "mcp-redmine",
+  "name": "@hoangconghuy/mcp-redmine",
   "version": "1.0.0",
   "description": "MCP server for Redmine — lets AI agents interact with Redmine via its REST API",
   "main": "dist/index.js",
